@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odin Inspector Unity"
+  short_description: "Build Unity inspectors using official Odin docs"
+  default_prompt: "Use $odin-inspector to implement this Unity editor feature using the installed Odin version."
